@@ -11,6 +11,7 @@
 ;;
 
 (require 'dash)
+(eval-when-compile (require 'cl))
 
 ;;; Code:
 
